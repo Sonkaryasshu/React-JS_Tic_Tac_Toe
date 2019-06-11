@@ -1,2 +1,2 @@
 # React-JS_Tic_Tac_Toe
-Getting started with React by this simple Tic Tac Toe game, by following official tutorial
+A simple 2-player Tic-Tac-Toe game implementation in React-js 
